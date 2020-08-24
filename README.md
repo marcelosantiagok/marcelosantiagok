@@ -24,7 +24,7 @@
 
 My name is Marcelo Vasconcelos Santiago,Age: 32, City: Samambaia Norte(Brazilian-DF), Analisys and System's Development by UNIPLAN(BR-DF) concluded in 2019. Currently studing Software's Engineer by Estácio(BR) postgraduate.
 - 🔭 I’m currently working on ...Web Developer 
-- 🌱 I’m currently learning ...DBA MySql, Oracle...
+- 🌱 I’m currently learning ...DBA - SQL, MySql, Oracle...
 
 
 
