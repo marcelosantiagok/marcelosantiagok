@@ -8,13 +8,8 @@
   Conhecimentos em HTML, CSS
   Alguns projetos desenvolvido em Mobile
   Idiomas : Aprendiz em Inglês, aperfeiçoando.
-
-
-My name is Marcelo Vasconcelos Santiago,Age: 32, City: Samambaia Norte(Brazilian-DF), Analisys and System's Development by UNIPLAN(BR-DF) concluded in 2019. Currently studing Software's Engineer by Estácio(BR) postgraduate.
-- 🔭 I’m currently working on ...Web Developer 
-- 🌱 I’m currently learning ...DBA MySql, Oracle...
-
-<ul>
+  
+  <ul>
   <li>
     <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="18" alt="linkedin"/>
     <a href="https://www.linkedin.com/in/marcelo-santiago-b94491160/ target="_blank" title="My Linkedin">Linkedin</a>
@@ -25,4 +20,11 @@ My name is Marcelo Vasconcelos Santiago,Age: 32, City: Samambaia Norte(Brazilian
   </li>                                                                                                        
 
 </ul>
+
+
+My name is Marcelo Vasconcelos Santiago,Age: 32, City: Samambaia Norte(Brazilian-DF), Analisys and System's Development by UNIPLAN(BR-DF) concluded in 2019. Currently studing Software's Engineer by Estácio(BR) postgraduate.
+- 🔭 I’m currently working on ...Web Developer 
+- 🌱 I’m currently learning ...DBA MySql, Oracle...
+
+
 
