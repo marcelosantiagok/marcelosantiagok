@@ -26,5 +26,7 @@ My name is Marcelo Vasconcelos Santiago,Age: 32, City: Samambaia Norte(Brazilian
 - 🔭 I’m currently working on ...Web Developer 
 - 🌱 I’m currently learning ...DBA - SQL, MySql, Oracle...
 
+![](https://github-readme-stats.vercel.app/api?username=marcelosantiagok)
+
 
 
