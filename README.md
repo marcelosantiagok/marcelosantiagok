@@ -9,7 +9,11 @@
   Alguns projetos desenvolvido em Mobile
   Idiomas : Aprendiz em Inglês, aperfeiçoando.
   
-  <ul>
+<ul>
+  <li>
+    <img src="https://img.icons8.com/doodle/48/000000/email--v1.png" width="18" alt="email"/>
+    <a href="mailto:marcelosantiagok@gmail.com">gmail</a>
+  </li>
   <li>
     <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="18" alt="linkedin"/>
     <a href="https://www.linkedin.com/in/marcelo-santiago-b94491160/ target="_blank" title="My Linkedin">Linkedin</a>
