@@ -14,4 +14,10 @@ My name is Marcelo Vasconcelos Santiago,Age: 32, City: Samambaia Norte(Brazilian
 - 🔭 I’m currently working on ...Web Developer 
 - 🌱 I’m currently learning ...DBA MySql, Oracle...
 
+<ul>
+  <li>
+    <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="18" alt="linkedin"/>
+    <a href="https://www.linkedin.com/in/marcelo-santiago-b94491160/ taget="_Blanck" title="My Linkedin">Linkedin</a>
+  </li>
+</ul>
 
