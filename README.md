@@ -12,7 +12,7 @@
 <ul>
   <li>
     <img src="https://img.icons8.com/doodle/48/000000/email--v1.png" width="18" alt="email"/>
-    <a href="mailto:marcelosantiagok@gmail.com">gmail</a>
+    <a href="mailto:marcelosantiagok@gmail.com">Gmail</a>
   </li>
   <li>
     <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="18" alt="linkedin"/>
