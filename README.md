@@ -16,7 +16,7 @@
   </li>
   <li>
     <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="18" alt="linkedin"/>
-    <a href="https://www.linkedin.com/in/marcelo-santiago-b94491160/">Linkedin</a>
+    <a href="https://www.linkedin.com/in/marcelo-santiago-b94491160/" taget="_blank">Linkedin</a>
   </li>
   <li>
     <img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" width="18" alt="facebook"/>            
