@@ -22,10 +22,9 @@
     <img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" width="18" alt="Facebook"/>            
     <a href="https://www.facebook.com/marcelosantiagok/" target="_blank">Facebook</a>
   </li> 
+  <li>
     <img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="18" alt="Instagram"/> 
     <a href="https://www.instagram.com/marcelosantiagok/" target="_blank">Instagram</a>
-  <li>
-    
   </li>
 
 </ul>
