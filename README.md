@@ -16,11 +16,11 @@
   </li>
   <li>
     <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="18" alt="linkedin"/>
-    <a href="https://www.linkedin.com/in/marcelo-santiago-b94491160/ title="My Linkedin">Linkedin</a>
+    <a href="https://www.linkedin.com/in/marcelo-santiago-b94491160/">Linkedin</a>
   </li>
   <li>
     <img src="https://img.icons8.com/doodle/48/000000/facebook-new.png" width="18" alt="facebook"/>            
-    <a href="https://www.facebook.com/marcelosantiagok title="My Facebook">Facebook</a>
+    <a href="https://www.facebook.com/marcelosantiagok/" >Facebook</a>
   </li>                                                                                                        
 
 </ul>
