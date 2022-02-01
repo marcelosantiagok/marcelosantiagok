@@ -2,7 +2,7 @@
 
 
   Meu nome é Marcelo Vasconcelos Santiago, graduado em Análise e Desenvolvimento de Sistemas pela universidade UNIPLAN-DF.
-  Estudante de pós-graduação em Engenharia de Software pela universidade Estácio de Sá.
+  Pós-graduado em Engenharia de Software pela universidade Estácio de Sá.
   
 <ul>
   <li>
